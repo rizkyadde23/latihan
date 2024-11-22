@@ -1,5 +1,6 @@
 #include <iostream> 
 using namespace std;
 main (){
-    cout<<"Hello World";
+    cout<<"Hello World\n";
+    cout<<"tes123\n";
 }
